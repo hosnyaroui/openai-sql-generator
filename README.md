@@ -1,0 +1,1 @@
+echo "# OpenAI SQL Generator"
